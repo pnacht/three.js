@@ -13,5 +13,6 @@
       "groupName": "devDependencies (non-major)",
       "automerge": true
     }
-  ]
+  ],
+  "includeForks": true
 }
