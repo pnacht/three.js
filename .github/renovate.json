@@ -5,7 +5,6 @@
     "helpers:pinGitHubActionDigests"
   ],
   "timezone": "Asia/Tokyo",
-  "schedule": ["after 1am and before 7am every monday"],
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
